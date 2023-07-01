@@ -1,8 +1,4 @@
-'''
-Created on Apr 6, 2021
 
-@author: martinyanev
-'''
 
 import os
 
